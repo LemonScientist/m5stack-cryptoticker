@@ -2,7 +2,7 @@
 
 This is a basic Arduino code for a M5Stack - That displays the BTC/ETH price in real-time on your screen
 
-![test](https://github.com/LemonScientist/m5stack-cryptoticker/assets/128156494/b5a4d4e6-d7d4-4445-acbc-45f3b1f3c7af)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+![test](https://ibb.co/pKtqw7q)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 **Prerequisites :**
 
