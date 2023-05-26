@@ -1,6 +1,6 @@
 # m5stack-cryptoticker - ༼ つ ◕_◕ ༽つ
 
-This is a basic Arduino code for a M5Stack - That displays the BTC/ETH price in real-time on your screen⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+This is a basic Arduino code for a M5Stack - That displays the BTC/ETH price in real-time on your screen⠀(*and 24 variation for v2*)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 **Prerequisites :**
 
@@ -27,4 +27,4 @@ Before running the program, make sure you have the following:
 - Power on your M5Stack device
 - The device will attempt to connect to the specified Wi-Fi network. The connection status will be displayed on the serial monitor
 - It will retrieve the prices of Bitcoin and Ethereum from the CoinGecko API
-- The prices will be updated every 10 seconds
+- The prices will be updated every 10 seconds (v1) 30 seconds (v2)
